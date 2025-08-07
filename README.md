@@ -10,9 +10,3 @@ This project presents an interactive **Power BI dashboard** for analyzing E-comm
 ## Tools Used
 - Power BI
 - Excel (data preprocessing)
-
-## Preview
-Add a screenshot of the dashboard here (optional)
-
-## Author
-[Urbashi Dutta](https://github.com/urbashidutta)
